@@ -1,0 +1,6 @@
+*.exe
+*.log
+*.tmp
+target/
+node_modules/
+.vscode/
