@@ -1,0 +1,11 @@
+{
+  "version": "0.2.7",
+  "notes": "CeitoMod v0.2.7: Corrección total de apertura de Overlay (sin cuelgues ni tiempos de espera), Overlay con Rango Falso y 2150 MMR flotante seguro con EAC, cierre de overlay sin cerrar la app, firmas minisign con versionado semver anti-bucle, y Centro de Plugins con Rocket Host y BakkesMod.",
+  "pub_date": "2026-11-27T02:30:37.148Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVUT0Z3QUFBQUFBQVZDTUJaUmhjMzlVUHRQVEMrcFJHbkRsaUlzZFBiZkFMakxYKzlFc3pLQUhrS3diUTZmRWM4K3BNL2t1WkVCUjA5SG8ralFuK1ZyNHNHNDF5MkRoL3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ2NjM3CWZpbGU6Q2VpdG9Nb2QtVXBkYXRlci5leGUJdmVyc2lvbjowLjIuNwpwS1lpeDNoVG50dk9rVENWR1RBdnJuNXRvcmFpcThPeFNnc3VwZ2FJSHh3WmY0aE5OR0oxQ0VYY1RvSGh1RDdiaGtGMjFIZzdIWlRuWTc1UzZpZkhCdz09Cg==",
+      "url": "https://github.com/ceitooo/CeitoMod/releases/download/v0.2.7/CeitoMod-Updater.exe"
+    }
+  }
+}
